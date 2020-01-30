@@ -3,8 +3,8 @@
 #define MIN 0
 
 // dorota.dariusz@gmail.com
-// Grzegorz Paryú, Bartosz Kosza≥ka
-// grupa: úroda 12:45
+// Grzegorz Pary≈õ, Bartosz Kosza≈Çka
+// grupa: ≈õroda 12:45
 
 SC_MODULE(sliders) {
 	sc_fifo_out<int> value;
